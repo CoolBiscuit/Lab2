@@ -1,0 +1,7 @@
+D:\сс\дима\дима\bin\Debug\дима.exe.config
+D:\сс\дима\дима\bin\Debug\дима.exe
+D:\сс\дима\дима\bin\Debug\дима.pdb
+D:\сс\дима\дима\obj\Debug\дима.csproj.AssemblyReference.cache
+D:\сс\дима\дима\obj\Debug\дима.csproj.CoreCompileInputs.cache
+D:\сс\дима\дима\obj\Debug\дима.exe
+D:\сс\дима\дима\obj\Debug\дима.pdb
